@@ -1,5 +1,5 @@
 {
-    "name": "abdala/omnipay-pagseguro",
+    "name": "erisonalexandre/omnipay-pagseguro",
     "type": "library",
     "description": "PagSeguro gateway for OmniPay",
     "keywords": [
@@ -12,12 +12,12 @@
         "payment",
         "PHPeste"
     ],
-    "homepage": "https://github.com/abdala/omnipay-pagseguro",
+    "homepage": "https://github.com/erisonalexandre/omnipay-pagseguro",
     "license": "MIT",
     "authors": [
         {
-            "name": "Abdala Cerqueira",
-            "email": "abdala.cerqueira@gmail.com"
+            "name": "Erison Pimenta",
+            "email": "erisonalexandre14@gmail.com"
         }
     ],
     "autoload": {
